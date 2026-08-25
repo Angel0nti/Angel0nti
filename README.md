@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="[https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/luis-angel-ontiveros-alvarez-568146345/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:angel0ntialv21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tu-portafolio.com/">
+  <a href="[https://tu-portafolio.com](https://portfolioangelonti.netlify.app/)/">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
